@@ -24,6 +24,7 @@
         "ring_refresh_token": "refresh_token",
         "camera_name": "Front Door",
         "port": 3000
+        "init": false
     },
     "schema": {
         "ring_refresh_token":"str",
